@@ -9,9 +9,8 @@ let Giusta = false;
 for ( let i = 0; i < email.length; i++) {
     if ( email[ i ] === dati){
         Giusta = true;
-        
     }else {
-       
+
     }
 }
 
